@@ -22,4 +22,3 @@ if __name__ == '__main__':
     classified_std.sort()
     for st in classified_std:
         print(st)
-    
